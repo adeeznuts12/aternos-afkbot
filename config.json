@@ -1,6 +1,6 @@
 {
-	"host": "game3.falixserver.net",
-	"port": "19267",
+	"host": "game5.falixserver.net",
+	"port": "11000",
 	"username": "anticheatbot168",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
